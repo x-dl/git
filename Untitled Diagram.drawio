@@ -1,20 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T12:36:27.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="EYmZikdw_eWrVZn9urEo" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T12:44:19.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="ZsnqQ2wv0xaZ55Ob9d2H" version="15.7.1" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1171" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-1" value="Magnetic Sensor&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="129" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-2" value="Magnetic sensor array can senses 16 signals&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="18" y="25" width="294" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="405" y="49" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-12" value="16 signals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="398.5" y="18" width="73" height="18" as="geometry" />
+        <mxCell id="_jbDvkYazUVAe7DlXdV3-15" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="98" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
