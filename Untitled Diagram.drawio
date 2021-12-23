@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T13:55:21.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="8Z4iqZYAHj02m455bwG2" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T08:57:33.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="5I_vIh-Z78VPlD0Ex0Ja" version="16.0.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1411" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="_jbDvkYazUVAe7DlXdV3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-18" target="_jbDvkYazUVAe7DlXdV3-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-18" value="MAG sensor reading" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_jbDvkYazUVAe7DlXdV3-18" value="M1~M16 MAG sensor reading" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="126" y="96" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-21" target="_jbDvkYazUVAe7DlXdV3-24" edge="1">
@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-21" value="if value == 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="_jbDvkYazUVAe7DlXdV3-21" value="if Mi == 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="109.5" y="182" width="153" height="81" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-24" target="_jbDvkYazUVAe7DlXdV3-34" edge="1">
