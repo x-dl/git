@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T08:57:33.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="5I_vIh-Z78VPlD0Ex0Ja" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T02:58:13.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="1E3Xy8XYPujxAWAirmq2" version="16.2.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1411" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="_jbDvkYazUVAe7DlXdV3-100" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="362" width="32" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="_jbDvkYazUVAe7DlXdV3-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-116" target="_jbDvkYazUVAe7DlXdV3-119" edge="1">
+        <mxCell id="hnSQCZyvWo4ruVG2juOI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jbDvkYazUVAe7DlXdV3-116" target="hnSQCZyvWo4ruVG2juOI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-116" value="Error = desierd deviation - current deviation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -191,13 +191,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-119" value="MotorSpeed = Kp*Error + Kd*(Error - lastError)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="856" y="227.5" width="330.5" height="60" as="geometry" />
+          <mxGeometry x="856" y="296" width="330.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-121" target="_jbDvkYazUVAe7DlXdV3-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-121" value="LeftMotorSpeed =leftBaseSpeed - MotorSpeed&lt;br&gt;RightMotorSpeed = rightBaseSpeed + MotorSpeed" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="856" y="330.5" width="330.5" height="60" as="geometry" />
+          <mxGeometry x="856" y="399" width="330.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-130" target="_jbDvkYazUVAe7DlXdV3-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,13 +206,19 @@
           <mxGeometry x="647.5" y="439" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-137" value="END" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="961.25" y="449" width="120" height="60" as="geometry" />
+          <mxGeometry x="961.25" y="517.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jbDvkYazUVAe7DlXdV3-139" target="_jbDvkYazUVAe7DlXdV3-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jbDvkYazUVAe7DlXdV3-139" value="Current deviation = M5~12*(0)+M13*2+M14*4+M15*8+M4*(-2)+M3*(-4)+M2*(-8)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="856" y="47.5" width="330.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnSQCZyvWo4ruVG2juOI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnSQCZyvWo4ruVG2juOI-1" target="_jbDvkYazUVAe7DlXdV3-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnSQCZyvWo4ruVG2juOI-1" value="MotorSpeed = Kp*Error + Kd*(Error - lastError)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="219" width="330.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
