@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T02:58:13.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="1E3Xy8XYPujxAWAirmq2" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T02:58:34.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="qcs3q2QVIuGe5DLGL51S" version="16.2.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1411" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="hnSQCZyvWo4ruVG2juOI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnSQCZyvWo4ruVG2juOI-1" target="_jbDvkYazUVAe7DlXdV3-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hnSQCZyvWo4ruVG2juOI-1" value="MotorSpeed = Kp*Error + Kd*(Error - lastError)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hnSQCZyvWo4ruVG2juOI-1" value="Ierror = Ierror + error" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="856" y="219" width="330.5" height="60" as="geometry" />
         </mxCell>
       </root>
